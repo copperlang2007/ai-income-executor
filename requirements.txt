@@ -1,1 +1,5 @@
-cat /home/workdir/artifacts/ai-income-executor/requirements.txt
+python-dotenv>=1.0.0
+requests>=2.31.0
+Pillow>=10.0.0
+# Add: fastapi uvicorn for full backend upgrade
+# elevenlabs openai xai-sdk (when available)
