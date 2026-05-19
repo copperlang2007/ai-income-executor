@@ -1,0 +1,1 @@
+cat /home/workdir/artifacts/ai-income-executor/scripts/generate_printables.py
